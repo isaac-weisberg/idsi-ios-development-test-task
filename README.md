@@ -49,4 +49,4 @@
 
 Ах да, ссылка на .json со странами и кодами: 
 
-http://caroline-weisberg.net/com.idsiapps.whodatboi.dataset.countries.json
+https://raw.githubusercontent.com/isaac-weisberg/idsi-ios-development-test-task/master/com.idsiapps.whodatboi.dataset.countries.json
